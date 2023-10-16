@@ -1,2 +1,2 @@
 # Power_Bi-Dashboard
-Created a Dashboard to track and analyze online sales of  An Ecommerce company in across India
+Created interactive dashboard to track and analyze Ecom sale and a Supar Market Sale Data.
